@@ -8,3 +8,4 @@ Array.from(links).forEach(function (element) {
         console.log(href);
     }
 });
+console.log(`These are the links which contain the key word ${str}`);
